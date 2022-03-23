@@ -44,3 +44,11 @@ Emoji's:
 ✏️ Grammar, texts changes.
 🐎 Performance
 ```
+
+## Links of interest
+[François Parmentier](https://gist.github.com/parmentf/035de27d6ed1dce0b36a)
+[Danny Fritz](https://github.com/dannyfritz/commit-message-emoji)
+[gitmoji.dev](https://gitmoji.dev/)
+
+## For Visual Studio Code
+[Using gitmoji-vscode for VSCode users](https://github.com/seatonjiang/gitmoji-vscode)
